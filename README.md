@@ -11,8 +11,9 @@
 ### What is missing:
 
 - No consideration was given to cooling/air flow
-- There is no USB-C slot at the back of the case
-- There no hole for the 4th encoder
+- ~~There is no USB-C slot at the back of the case~~
+- ~~There no hole for the 4th encoder~~
+- (the above two items were added thanks to james everitt)
 
 ### Before you print this please know that:
 
